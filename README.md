@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willshuttleworth&exclude_repo=.dotfiles&layout=compact&theme=material-palenight&hide=jupyter%20notebook"/>
 </div>
 
-### my skills :lightbulb:
+### my skills :bulb:
 
 <div style="display:flex">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
