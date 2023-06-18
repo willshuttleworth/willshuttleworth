@@ -19,7 +19,9 @@ ___
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Spark" src="https://img.shields.io/badge/Spark-323330?&style=for-the-badge&logo=spark3&logoColor=orange"/>
+<img alt="Spark" src="https://img.shields.io/badge/Spark-323330?&style=for-the-badge&logo=apache-spark&logoColor=orange"/>
+<img alt="Scala" src="https://img.shields.io/badge/Scala-FFFFFF?&style=for-the-badge&logo=scala&logoColor=red"/>
+<img alt="Bash" src="https://img.shields.io/badge/Bash-323330?&style=for-the-badge&logo=bash&logoColor=white"/>
 </div>
 
 ---
