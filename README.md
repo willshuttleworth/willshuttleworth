@@ -7,8 +7,8 @@ ___
 ### my skills :bulb: 
 
 <div style="display:flex">
-<img alt="Rust" src="https://img.shields.io/badge/RUST-E44C30?style=for-the-badge&logo=rust&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=white">
+<img alt="Rust" src="https://img.shields.io/badge/RUST-E44C30?style=for-the-badge&logo=rust&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=oracle&logoColor=red">
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
