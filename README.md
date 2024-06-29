@@ -14,12 +14,11 @@ ___
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=yellow">  
 <img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue">  
-<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img alt="React" src="https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Spark" src="https://img.shields.io/badge/Spark-323330?&style=for-the-badge&logo=apache-spark&logoColor=orange"/>
-<img alt="Scala" src="https://img.shields.io/badge/Scala-FFFFFF?&style=for-the-badge&logo=scala&logoColor=red"/>
+<img alt="CSS3" src="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
 <img alt="Bash" src="https://img.shields.io/badge/Bash-323330?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 
